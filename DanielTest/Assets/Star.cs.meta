@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc9a5c344b21d4a8086ee3930e0ca65e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerCamera: {instanceID: 0}
+  - SolarSystemCamera: {fileID: 1746365380620948031, guid: 1da5ab3b6782c4bd989edad0835f08fd, type: 3}
+  - txt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
